@@ -9,10 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - eatme.qmd
 
 format:
   html:
-    theme: cosmo
+    # theme: sandstone
+    # theme: journal
+    theme: yeti
+    # theme: quartz
+    # backgroundcolor: "#f5e9dd"
+    # backgroundcolor: "#FBDEC1"
+    backgroundcolor: "#D2F9FC"
+    # theme: cosmo
     css: styles.css
     toc: true
 
