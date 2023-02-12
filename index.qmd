@@ -1,16 +1,26 @@
 ---
 title: "J Crain Consulting - Wealth Planning"
-# image: "joan.jpg"
-# links:
-#   - label: LinkedIn
-#     url: "https://www.linkedin.com/in/joancrain/"
+image: "joan.jpg"
+about: 
+  template: solana
+  image-width: 15em
+  links:
+  - text: Email
+    href: mailto:joan@jcraincounsulting.com
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/joancrain/
 # output:
 #   postcards::solina
 ---
 
-**Joan Crain**
+**Joan K. Crain, CFP®, TEP®, AEP® (distinguished)**
+
+**Global Wealth Advisor, J Crain Consulting**
 
 Joan, works with families and their advisors to help plan and execute the transition of family
 wealth to children and future generations. As a member of a family’s estate planning team,
 she provides an independent perspective and helps coordinate the tough tax and legal issues
 with the equally challenging human side of family wealth
+
+
+
