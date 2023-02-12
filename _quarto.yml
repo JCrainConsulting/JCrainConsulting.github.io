@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "J Crain Consulting"
+  title: "JCrainConsulting.github.io"
   navbar:
     left:
       - href: index.qmd
