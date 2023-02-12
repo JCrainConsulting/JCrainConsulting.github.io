@@ -9,6 +9,8 @@ about:
     href: mailto:joan@jcraincounsulting.com
   - text: LinkedIn
     href: https://www.linkedin.com/in/joancrain/
+  - text: Brochure
+    href: https://github.com/JCrainConsulting/JCrainConsulting.github.io/raw/main/J%20Crain%20Consulting%20Intro.pdf
 # output:
 #   postcards::solina
 ---
