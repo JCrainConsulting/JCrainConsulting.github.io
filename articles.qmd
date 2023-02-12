@@ -1,0 +1,22 @@
+---
+title: "Articles"
+# listing: default
+---
+
+**Sample articles authored or co-authored by Joan K. Crain**
+
+
+
+<a href="Settlors_Unsettled_Crain_STEP Journal_2023.pdf">Settlors Unsettled</a>
+
+<a href="Cayman_in_the_Middle_Crain_Soto_stepCayman_2016.pdf">Cayman in the Middle</a>
+
+<a href="Global Philanthropy_2020_coauthors.pdf">Global Family Philanthropy</a>
+
+<a href="Entrepreneur to Global Investor_Dec 2015.pdf">Entrepreneur to Global Investor</a>
+
+<a href="Wealth_Planning_for_Multinational_Families_Crain_Soto_2020.PDF">Wealth Planning for Multinational Families with U.S. Connections</a>
+
+
+
+<!-- https://community.rstudio.com/t/how-to-link-to-a-file-from-an-included-markdown-document-in-a-shiny-app/45907/2 -->
