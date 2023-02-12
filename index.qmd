@@ -1,11 +1,11 @@
 ---
-title: "JCrainConsulting.github.io"
-image: "joan.jpg"
-links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/joancrain/"
-output:
-  postcards::solina
+title: "J Crain Consulting - Wealth Planning"
+# image: "joan.jpg"
+# links:
+#   - label: LinkedIn
+#     url: "https://www.linkedin.com/in/joancrain/"
+# output:
+#   postcards::solina
 ---
 
 Joan Crain
