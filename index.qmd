@@ -7,7 +7,7 @@ about:
   image-width: 15em
   links:
   - text: Email
-    href: mailto:joan@jcraincounsulting.com
+    href: mailto:joan@jcrainconsulting.com
   - text: Brochure
     href: "J Crain Consulting Intro.pdf"
   - text: LinkedIn
