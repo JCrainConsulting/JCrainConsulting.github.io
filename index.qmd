@@ -1,7 +1,7 @@
 ---
 title: "J Crain Consulting - Wealth Planning"
 image: "joan.jpg"
-resources: "J Crain Consulting Intro.pdf"  # copies PDF to docs folder upon new render; best practice -- don't place PDF into docs folder
+resources: "J Crain Consulting Introduction.pdf"  # copies PDF to docs folder upon new render; best practice -- don't place PDF into docs folder
 about: 
   template: solana
   image-width: 15em
