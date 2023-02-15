@@ -9,7 +9,7 @@ about:
   - text: Email
     href: mailto:joan@jcrainconsulting.com
   - text: Brochure
-    href: "J Crain Consulting Intro.pdf"
+    href: "J Crain Consulting Introduction.pdf"
   - text: LinkedIn
     href: https://www.linkedin.com/in/joancrain/
   # - text: Brochure
@@ -18,7 +18,7 @@ about:
 #   postcards::solina
 ---
 
-**Joan K. Crain, CFP®, TEP®, AEP® (distinguished)**
+**Joan K. Crain, CFP®, TEP, AEP® (distinguished)**
 
 **Global Wealth Advisor, J Crain Consulting**
 
